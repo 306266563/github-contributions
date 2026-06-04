@@ -41,3 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 *Created as part of the Manus Early Access contribution initiative.*
+
+## Quick Setup
+Just run `pip install -r requirements.txt` to get started.
