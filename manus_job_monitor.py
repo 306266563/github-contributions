@@ -29,3 +29,5 @@ if __name__ == "__main__":
     monitor = ManusMonitor(api_key="YOUR_API_KEY")
     # monitor.monitor_until_done("job_12345")
     print("Manus Monitor initialized. Ready to track your AI agent tasks.")
+
+# Optimized polling logic for better performance.
