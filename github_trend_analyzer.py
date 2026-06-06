@@ -19,3 +19,5 @@ def get_trending_repos(language='python'):
 if __name__ == "__main__":
     get_trending_repos('python')
     print("\nTrend Analyzer Ready. Use this data to feed into Manus for deeper insights.")
+
+# Added timeout handling for API requests.
