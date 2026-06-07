@@ -11,3 +11,5 @@ if __name__ == "__main__":
     optimized = optimize_prompt(raw_input)
     print("--- Optimized Prompt for Manus ---")
     print(optimized)
+
+# Custom template support added.
