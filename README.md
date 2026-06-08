@@ -44,3 +44,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Quick Setup
 Just run `pip install -r requirements.txt` to get started.
+### Example Usage
+Check `manus_prompt_optimizer.py` for structured prompt generation.
